@@ -1,4 +1,4 @@
-![Docker的海洋](http://play-docker.oss-cn-hangzhou.aliyuncs.com/images/play-docker.jpg)
+![Docker的海洋](play-docker.png)
 
 #### 课程名称：
 《动手玩Docker》
